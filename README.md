@@ -134,31 +134,8 @@ Small-object classes (resistors, pads, diodes) remain challenging
 
 Model generalizes reasonably to unseen boards (Arduino and Raspberry Pi)
 
-Future Improvements
 
-Train for more epochs (e.g., 100–150)
 
-Use a larger model (YOLOv11-S or YOLOv11-M)
-
-Increase image size to 1280
-
-Balance the dataset or oversample rare classes
-
-Add stronger data augmentation (lighting, rotation, shadows, domain shifts)
-
-References
-
-AER850 Course Team, “Project 3 – PCB Component Detection Assignment,” Toronto Metropolitan University, 2025.
-
-Ultralytics YOLO Documentation – https://docs.ultralytics.com
-
-OpenCV Python Documentation – https://docs.opencv.org
-
-Pillow (PIL) Documentation – https://pillow.readthedocs.io
-
-NumPy Documentation – https://numpy.org/doc
-
-Matplotlib Documentation – https://matplotlib.org
 
 Author
 
@@ -166,7 +143,6 @@ Babak Tafreshi
 Aerospace Engineering, Toronto Metropolitan University
 AER850 – Winter 2025
 
-::contentReference[oaicite:0]{index=0}
 
 
 
