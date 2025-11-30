@@ -90,8 +90,8 @@ This reflects common small-object detection challenges in PCB inspection tasks.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name> 
+git clone https://github.com/babak-tafreshi/AER850_Project3.git 
+cd AER850_Project3
 ```
 2. Install dependencies
 
